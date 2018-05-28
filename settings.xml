@@ -1,0 +1,15 @@
+<setting>
+<servers>
+<server>
+<id>01-Project</id>
+<username>admin</username>
+<password>admin123</password>
+</server>
+<server>
+<id>Project_release</id>
+<username>admin</username>
+<password>admin123</password>
+
+</server>
+</servers>
+</settings>
