@@ -41,7 +41,7 @@
 <properties>
 <!-- Optional URL to server. Default value is http://localhost:9000 -->
 <sonar.host.url>
-http://http://192.168.33.100:9003
+http://192.168.33.100:9003
 </sonar.host.url>
 </properties>
 </profile>
