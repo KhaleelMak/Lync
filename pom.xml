@@ -27,6 +27,16 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+  <snapshotRepository>
+    <id>01-Project</id>
+    <url>http://192.168.33.100:8082/nexus/content/repositories/01-Project</url>
+  </snapshotRepository>
+    <repository>
+    <id>Project_release</id>
+    <url>http://192.168.33.100:8082/nexus/content/repositories/Project_release</url>
+  </repository>
+</distributionManagement>
 
   <build>
     <finalName>ProjectApp1</finalName>
